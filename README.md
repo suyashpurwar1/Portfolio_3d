@@ -19,8 +19,8 @@ To get started with this project, follow these steps:
 ### Cloning the Repository 👇
 
 ```
-git clone git@github.com:adrianhajdin/project_3D_developer_portfolio.git
-cd project_3D_developer_portfolio
+git clone https://github.com/suyashpurwar1/Portfolio_3d.git
+cd Portfolio_3d
 ```
 
 ### Installation 📦
